@@ -29,7 +29,9 @@ libraries used in this application:
 <li><b>time</b>: This module provides various time-related functions.</li>
 </ul>
 
-I have provided proper commenting in the program to let you know which line is functioning for what.
+I have provided proper commenting in the program to let you know which line is functioning for what.<br/>
+<b> project looks like this: </b>
+  <img src="./images/Screenshot (275).png" width=1000/>
 
 Feel free contribute and make changes!!
 <h2>Happy Coding!!</h2>
