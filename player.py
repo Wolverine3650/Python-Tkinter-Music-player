@@ -215,7 +215,7 @@ playlist_box.grid(row=0,column=0)
 volume_frame=LabelFrame(main_frame,text="Volumne")
 volume_frame.grid(row=0,column=1,padx=20)
 #create volumn slider
-volumn_slider = ttk.Scale(volume_frame,from_=1,to=0,orient=VERTICAL,length=125,value=0,command=volume)
+volumn_slider = ttk.Scale(volume_frame,from_=1,to=0,orient=VERTICAL,length=125,value=1,command=volume)
 volumn_slider.pack(pady=10)
 
 #create song slider
